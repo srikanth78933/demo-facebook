@@ -5,4 +5,5 @@
   tasks:
   - apt:
       name: install java
-      package: opejdk-17
+      package: opejdk-11
+
