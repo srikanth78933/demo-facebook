@@ -6,3 +6,6 @@
   - apt:
       name: install java
       package: opejdk-17
+      state: present
+      update_cache: yes
+
